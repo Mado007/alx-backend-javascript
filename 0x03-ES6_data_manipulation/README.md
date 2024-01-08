@@ -1,17 +1,5 @@
-# Software Foundation - BackEnd Developer
-
 # alx-backend-javascript
-## Table of Contents
-
-- [- ES6 Projects](#ES6Projects)
-- [License](#license)
-
-## - ES6 Projects
-
-- ES6 basic
-- ES6 promise
-- ES6 Classes
-- ES6 data manipulation
+- ES6 Data Manipulation
 
 
 
