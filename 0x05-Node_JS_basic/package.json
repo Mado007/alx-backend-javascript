@@ -9,7 +9,7 @@
     "test": "./node_modules/mocha/bin/mocha --require babel-register --exit",
     "dev": "nodemon --exec babel-node --presets babel-preset-env ./server.js ./database.csv"
   },
-  "author": "",
+  "author": "Mahmoud Ashraf Mahmoud",
   "license": "ISC",
   "dependencies": {
     "chai-http": "^4.3.0",
